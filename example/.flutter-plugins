@@ -1,12 +1,11 @@
 # This is a generated file; do not edit or check into version control.
 iscflutterplugin=/Users/huajiazhang/Desktop/wckj/iscflutterplugin-2.0.5/
-path_provider=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.10/
-path_provider_android=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.14/
-path_provider_ios=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_ios-2.0.9/
-path_provider_linux=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.1.6/
-path_provider_macos=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-2.0.6/
-path_provider_windows=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.0.6/
-permission_handler=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-9.2.0/
-permission_handler_android=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-9.0.2+1/
-permission_handler_apple=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.0.4/
-permission_handler_windows=/Users/huajiazhang/flutter_2.10.3/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_windows-0.1.0/
+path_provider=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.13/
+path_provider_android=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.24/
+path_provider_foundation=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.2.0/
+path_provider_linux=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.1.10/
+path_provider_windows=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.1.5/
+permission_handler=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-10.2.0/
+permission_handler_android=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-10.2.0/
+permission_handler_apple=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.0.7/
+permission_handler_windows=/Users/huajiazhang/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_windows-0.1.2/
